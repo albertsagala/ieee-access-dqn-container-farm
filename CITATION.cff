@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the associated IEEE Access article."
+title: "Data and Code for Safety-Filtered Deep Q-Network Microclimate Control in a 10-ft Container Vertical Farm"
+type: dataset
+authors:
+  - given-names: Albert
+    orcid: "https://orcid.org/0000-0003-2174-7595"
+  - given-names: Good Fried
+    family-names: Panggabean
+  - given-names: Rahmat
+    family-names: Romadhon
+  - given-names: Endra
+    family-names: Joelianto
+    orcid: "https://orcid.org/0000-0003-4496-6301"
+year: 2026
+repository-code: "https://github.com/albertsagala/ieee-access-dqn-container-farm"
+license: "NOASSERTION"
